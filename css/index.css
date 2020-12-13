@@ -1,0 +1,58 @@
+
+.header {
+	width: 100%;
+	/* border: 1px skyblue solid; */
+	padding: 12px 0px;
+}
+span{
+	display: inline-block;
+	border: 1px skyblue solid;
+	text-align: center;
+	height: 24px;
+}
+.item_margin{
+	margin-right:4.75px;
+}
+.span1{
+	width: 8%;
+}
+.span2{
+	width: 5%;
+}
+.span3{
+	width: 5%;
+}
+.span4{
+	width: 7%;
+}
+.span5{
+	width: 10%;
+}
+.span6{
+	width: 10%;
+}
+.span7{
+	width: 10%;
+}
+.span8{
+	width: 8%;
+}
+.span9{
+	width: 7%;
+}
+.span10{
+	width: 7%;
+}
+.span11{
+	width: 7%;
+}
+.span12{
+	width: 7%;
+}
+.hidden_button{
+	visibility: hidden;
+}
+button{
+	height: 22px;
+}
+
